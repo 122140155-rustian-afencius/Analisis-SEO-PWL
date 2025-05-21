@@ -63,7 +63,7 @@ Website ini mencakup optimasi SEO komprehensif:
 ## Pemantauan Kinerja
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300/1e40af/FFFFFF?text=Performance+Dashboard" alt="Performance Dashboard" width="600"/>
+  <img src="images/performance.png" alt="Performance Dashboard" width="600"/>
 </p>
 
 Website ini mencakup sistem pemantauan kinerja kustom yang melacak metrik berikut:
